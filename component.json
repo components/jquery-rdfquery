@@ -1,16 +1,11 @@
 {
   "name": "jquery-rdfquery",
-  "version": "1.1.0-alpha.1",
   "description": "jQuery rdfQuery",
   "keywords": [
     "jquery",
     "component"
   ],
-  "main": [
-    "js/jquery.rdfquery.core.js",
-    "js/jquery.rdfquery.rdfa.js",
-    "js/jquery.rdfquery.rules.js"
-  ],
+  "main": "js/jquery.rdfquery.core.js",
   "scripts": [
     "js/jquery.rdfquery.core.js",
     "js/jquery.rdfquery.rdfa.js",
