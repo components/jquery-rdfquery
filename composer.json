@@ -18,8 +18,12 @@
                 "js/jquery.rdfquery.core.js",
                 "js/jquery.rdfquery.rdfa.js",
                 "js/jquery.rdfquery.rules.js"
-            ]
+            ],
+            "shim": {
+                "deps": [
+                    "jquery"
+                ]
+            }
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
