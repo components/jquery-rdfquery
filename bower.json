@@ -1,18 +1,17 @@
 {
   "name": "jquery-rdfquery",
-  "repo": "components/jquery-rdfquery",
   "description": "jQuery rdfQuery",
   "keywords": [
     "jquery",
     "component"
   ],
-  "scripts": [
+  "main": [
     "js/jquery.rdfquery.core.js",
     "js/jquery.rdfquery.rdfa.js",
     "js/jquery.rdfquery.rules.js"
   ],
   "dependencies": {
-    "components/jquery": "~1.9.0"
+    "jquery": "~1.9.0"
   },
   "license": "MIT"
 }
