@@ -12,7 +12,7 @@
     "js/jquery.rdfquery.rules.js"
   ],
   "dependencies": {
-    "components/jquery": "~1.9.0"
+    "component/jquery": "~1.9.1"
   },
   "license": "MIT"
 }
