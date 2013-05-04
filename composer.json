@@ -15,9 +15,9 @@
     "extra": {
         "component": {
             "scripts": [
-                "js/jquery.rdfquery.core.js",
-                "js/jquery.rdfquery.rdfa.js",
-                "js/jquery.rdfquery.rules.js"
+                "js/jquery.rdfquery.core-1.0.js",
+                "js/jquery.rdfquery.rdfa-1.0.js",
+                "js/jquery.rdfquery.rules-1.0.js"
             ],
             "shim": {
                 "deps": [
