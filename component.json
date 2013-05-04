@@ -7,12 +7,12 @@
     "component"
   ],
   "scripts": [
-    "js/jquery.rdfquery.core.js",
-    "js/jquery.rdfquery.rdfa.js",
-    "js/jquery.rdfquery.rules.js"
+    "js/jquery.rdfquery.core-1.0.js",
+    "js/jquery.rdfquery.rdfa-1.0.js",
+    "js/jquery.rdfquery.rules-1.0.js"
   ],
   "dependencies": {
-    "component/jquery": "~1.9.1"
+    "component/jquery": "~1.8.0"
   },
   "license": "MIT"
 }
