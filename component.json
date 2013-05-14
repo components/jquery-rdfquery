@@ -6,6 +6,7 @@
     "jquery",
     "component"
   ],
+  "main": "js/jquery.rdfquery.core-1.0.js",
   "scripts": [
     "js/jquery.rdfquery.core-1.0.js",
     "js/jquery.rdfquery.rdfa-1.0.js",
